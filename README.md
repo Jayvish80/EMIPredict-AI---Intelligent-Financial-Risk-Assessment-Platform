@@ -1,6 +1,6 @@
 # 💰 EMIPredict AI - Intelligent Financial Risk Assessment Platform
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_CLOUD_URL_HERE)
+[![Streamlit App](https://fifty-pillows-laugh.loca.lt/)]
 [![Project Domain](https://img.shields.io/badge/Domain-FinTech%20%26%20Banking-blue?style=flat-square)](https://github.com/EMIPredict-AI-Platform)
 [![Best Model](https://img.shields.io/badge/Model-XGBoost-orange?style=flat-square)](https://github.com/EMIPredict-AI-Platform)
 
@@ -90,10 +90,3 @@ The application will open in your browser at `http://localhost:8501`.
 
 ---
 
-## 🌐 Live Application
-
-The complete, production-ready platform is deployed and accessible via Streamlit Cloud:
-
-[**Access the EMIPredict AI Platform Here**](YOUR_STREAMLIT_CLOUD_URL_HERE)
-
-***
