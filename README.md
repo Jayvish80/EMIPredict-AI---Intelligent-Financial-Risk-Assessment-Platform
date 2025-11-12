@@ -1,9 +1,5 @@
 # 💰 EMIPredict AI - Intelligent Financial Risk Assessment Platform
 
-[![Streamlit App](Streamlit_Dashboard_Image.png)]
-[![Project Domain](https://img.shields.io/badge/Domain-FinTech%20%26%20Banking-blue?style=flat-square)](https://github.com/EMIPredict-AI-Platform)
-[![Best Model](https://img.shields.io/badge/Model-XGBoost-orange?style=flat-square)](https://github.com/EMIPredict-AI-Platform)
-
 ## 💡 Project Goal
 
 This project delivers a comprehensive, data-driven platform designed to solve the critical issue of inadequate financial risk assessment and poor EMI planning. By leveraging Machine Learning and MLOps principles, the platform provides automated, real-time insights into a borrower's financial capacity.
