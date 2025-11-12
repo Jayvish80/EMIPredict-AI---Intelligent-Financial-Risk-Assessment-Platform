@@ -1,6 +1,6 @@
 # 💰 EMIPredict AI - Intelligent Financial Risk Assessment Platform
 
-[![Streamlit App](https://fifty-pillows-laugh.loca.lt/)]
+[![Streamlit App](Streamlit_Dashboard_Image.png)]
 [![Project Domain](https://img.shields.io/badge/Domain-FinTech%20%26%20Banking-blue?style=flat-square)](https://github.com/EMIPredict-AI-Platform)
 [![Best Model](https://img.shields.io/badge/Model-XGBoost-orange?style=flat-square)](https://github.com/EMIPredict-AI-Platform)
 
